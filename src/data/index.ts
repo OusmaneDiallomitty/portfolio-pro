@@ -7,7 +7,7 @@ import type { Project, Experience, NavLink } from '../types';
 export const personalInfo = {
   name: 'Ousmane Diallo',
   title: 'Développeur Web & Mobile',
-  location: 'Guinée',
+  location: 'Conakry, Guinée',
   email: 'ousmanedmitty@gmail.com',
   phone: '+224 626 13 26 14',
   cvFr: 'https://www.canva.com/design/DAG19VQ9dZ8/oFa51-HVAy5A9P7XuUyehw/view?utm_content=DAG19VQ9dZ8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15a53af074',
