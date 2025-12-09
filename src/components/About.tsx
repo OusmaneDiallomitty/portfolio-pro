@@ -6,7 +6,7 @@ import { personalInfo } from '../data';
 
 const stats = [
   { value: '1+', label: 'Année d\'expérience' },
-  { value: '10+', label: 'Projets réalisés' },
+  { value: '7+', label: 'Projets réalisés' },
   { value: '100%', label: 'Motivation' },
 ];
 
