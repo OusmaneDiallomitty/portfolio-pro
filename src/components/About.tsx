@@ -97,7 +97,7 @@ export const About = () => {
               <div className="space-y-6 text-gray-300 leading-relaxed">
                 <p className="text-lg">
                   Je suis <span className="text-white font-semibold">{personalInfo.name}</span>, 
-                  développeur web et mobile basé en <span className="text-primary">{personalInfo.location}</span>.
+                  développeur web et mobile basé à <span className="text-primary">{personalInfo.location}</span>.
                 </p>
                 <p>
                   Avec 1 an d'expérience, je me spécialise dans la création d'applications 
