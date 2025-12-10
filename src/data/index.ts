@@ -10,8 +10,8 @@ export const personalInfo = {
   location: 'Conakry, Guinée',
   email: 'ousmanedmitty@gmail.com',
   phone: '+224 626 13 26 14',
-  cvFr: 'https://www.canva.com/design/DAG19VQ9dZ8/oFa51-HVAy5A9P7XuUyehw/view?utm_content=DAG19VQ9dZ8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h15a53af074',
-  cvEn: 'https://www.canva.com/design/DAG18IDTuxk/UGFYbze20rGQ501DzYNveg/view?utm_content=DAG18IDTuxk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h012ba9d3f5',
+  cvFr: '/cv-fr.pdf',
+  cvEn: '/cv-en.pdf',
 };
 
 export const socialLinks = {
